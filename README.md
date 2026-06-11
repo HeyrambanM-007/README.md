@@ -1,38 +1,35 @@
 # Hi, I'm Heyramban 👋
 
-🎓 B.Tech Information Technology Student  
-📍 Chennai, India  
-💻 Passionate about Technology and Continuous Learning
-
 ## About Me
-- Currently pursuing B.Tech in Information Technology
-- Learning Web Development, Cloud Computing, and Git/GitHub
-- Interested in Software Development and Problem Solving
-- Building projects to improve my technical skills
-- Looking for internship opportunities to gain industry experience
+- 🎓 B.Tech Information Technology Student
+- 💻 Learning Web Development, Cloud Computing, and Git/GitHub
+- 🚀 Interested in Software Development and Problem Solving
+- 🌱 Currently building projects and improving my technical skills
 
 ## Skills
 - HTML
 - CSS
 - JavaScript
 - Python
-- Git & GitHub
+- Git
+- GitHub
 - VS Code
 
-## Currently Learning
-- Cloud Computing
-- Azure
+## Current Learning
+- Azure Cloud
+- Cloud Computing Fundamentals
 - Front-End Development
-- Version Control
+- Version Control with Git
 
-## Goals for 2026
-- Complete impactful projects
+## Goals
+- Complete real-world projects
+- Gain internship experience
 - Contribute to open-source projects
-- Gain hands-on internship experience
-- Strengthen programming and development skills
+- Improve programming and development skills
 
 ## Connect With Me
-📧 Email: heyramban007@gmail.com
+- GitHub: https://github.com/YourUsername
+- LinkedIn: https://www.linkedin.com/in/heyramban-m-709080383/
 
 ---
-*"Every expert was once a beginner. Keep learning, keep building."* 🚀
+⭐ Always learning, building, and growing.

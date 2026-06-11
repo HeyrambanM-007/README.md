@@ -21,20 +21,6 @@
 - Front-End Development
 - Version Control with Git
 
-# Azure Cloud & DevOps Internship
-
-## Internship Objectives
-- Learn Azure Cloud
-- Learn Git & GitHub
-- Learn Cloud Computing Concepts
-- Learn DevOps Practices
-
-## Progress Tracker
-
-- [x] Day 1 Completed
-- [x] Day 2 Completed
-- [ ] Day 3 Completed
-
 ## Goals
 - Complete real-world projects
 - Gain internship experience
